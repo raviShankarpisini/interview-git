@@ -1,0 +1,99 @@
+note : redux questions are not included read from the blogs which are this folder
+
+
+1. What is React ?
+2. What are the advantages of using React?
+3. What are the limitations of React?
+4. What is useState() in React?
+5. What are keys in React? 
+6. What is JSX?
+7. What are the differences between functional and class components?
+8. What is the virtual DOM? How does react use the virtual DOM to render the UI?
+9. What are the differences between controlled and uncontrolled components?
+10. What are props in React?
+11. Explain React state and props.
+13. What is prop drilling in React?
+14. What are error boundaries?
+15. What is React Hooks?
+16. Explain React Hooks.
+17. What are the rules that must be followed while using React Hooks?
+18. What is the use of useEffect React Hooks?
+19. Why do React Hooks make use of refs?
+20. What are Custom Hooks?
+1. How to perform automatic redirect after login?
+2. How to pass data between sibling components using React router?
+3. How to re-render the view when the browser is resized?
+4. How to create a switching component for displaying different pages?
+5. Explain how to create a simple React Hooks example program.
+6. Explain conditional rendering in React.
+8. What is React Router?
+9. Do Hooks cover all the functionalities provided by the classes?
+11. Differentiate React Hooks vs Classes.
+12. Explain about types of Hooks in React.
+14. What are the lifecycle methods of React?
+15. What are the different phases of the component lifecycle?
+16. What are Higher Order Components?
+17. How to pass data between react components?
+18. Name a few techniques to optimize React app performance.
+19. What are the different ways to style a React component?
+20. How to prevent re-renders in React?
+21. Explain Strict Mode in React.
+Explain the building blocks of React.
+How do browsers read JSX? 
+Explain the difference between React and Angular?
+What is React Fragments?
+What is the difference between useref and createRef in React ?
+What is react-redux?
+What are benefits of using react-redux?
+Explain the core components of react-redux?
+How can we combine multiple reducers in React?
+What is axios and how to use it in React?
+What is the difference between Element and Component?
+What are Pure Components?
+What is the difference between Shadow DOM and Virtual DOM?
+How Does ReactJS work?
+33. What is the Flux?
+37. How is React routing different from conventional routing?
+What is the purpose of the useMemo hook?
+What are portals in React?
+4) What are the biggest limitations of React?
+11) How React's ES6 syntax is different from ES5 syntax?
+Why is it necessary to start component names with a capital letter?
+What are Forward Refs?
+What happens with a component when it receives new props?
+What are some common pitfalls when doing data fetching?
+differentiate between createElement and cloneElement
+explain lifting state up in react
+is it necessary for keys to be globally unique
+What is the difference between a Presentational component and a Container component?
+What is the difference between npx and npm?
+Why you should prefer vite over create-react-app?
+Q22. What is server-side rendering (SSR) in React?
+Explain the concept of tree shaking in the context of React and its benefits.
+12. Describe the differences between React context and Redux for managing global state.
+24. What are synthetic events in React?
+45. What are the advantages of Redux?
+What happens if you attempt to update the state directly?
+"In React, everything is a component." Explain.
+What is the purpose of render () in React.
+What Are the Common Folder Structures for React?
+ What is the purpose of callback function as an argument of setState()?
+ 14. What is React Fiber?
+What is the difference between super() and super(props) in React using ES6 classes?
+What is reconciliation?
+Q: Describe the differences between useMemo and useCallback hooks.
+Q: How would you implement a custom hook for handling API calls?
+Q: How would you implement a debounce function in React?
+3. What are three benefits of using React Hooks?
+What is Context API in ReactJS?
+
+What is Redux in ReactJS?
+Is it true that Redux is only compatible with React?
+What are some of Redux DevTools' most essential features?
+In what situations may we use Redux?
+Explain what a "store" in Redux means.
+In Redux, how can we structure the top-level directories?
+Are there similarities between Redux and RxJS?
+What are the concepts of functional programming?
+What is the difference between state and props?
+What are ReactJs' limitations?

@@ -1,0 +1,126 @@
+Google (don't do chat gpt) for these questions and check the code also
+
+React interview questions
+Virtual dom vs realdom
+Lazy loading
+Positions: absolute,static,relative,fixed,sticky
+
+Hooks:
+uselayoutEffect
+useTransition
+useState/[useOptimistic(for live likes count in social media)]
+useEffect
+useMemo
+useCallback
+useId
+useRef
+useReducder
+useContext
+customHook
+
+Routes
+How to improve performance-useMemo,useCallback,useTransition,lazy,code split
+Reconciliation
+useContext vs redux
+Usememo vs use callback
+life cycle methods in class components
+HOC
+Controlled component vs uncontrolled component
+Element vs component
+Pure components
+Improve / optimise react performance
+Lifting stage up in react
+Fragments
+Features of react
+What is react
+Jsx,keys,
+Advantages of react
+State vs props
+Virtual dom
+Class vs functional
+Single page application
+Shallow dom vs virtual dom
+Declarative vs imperative syntax
+Features of es6
+
+
+
+Three principles of redux
+action,reducer,state
+
+
+JAVA SCRIPT
+Schedulers
+Javascript?
+Array?
+scopes
+Data types 
+Primitive data types and non primitive data types
+Array methods
+String methods
+Status codes
+Axios and fetch
+This keyword
+Promises and async/await
+hoisting
+Let var const
+Es6 methods
+Call , apply,bind
+Closure
+Js types:number,string, null, undefined, boolean, function, object
+Types of functions
+Function declaration
+Function expression
+Firstclass function
+Currying function
+Pure function
+Impure functions
+Arrow function
+Call back function
+Higher order function
+Anonymous function
+Self invoking function
+Temporal dead zone
+Web storage- local storage, session storage
+Undefined vs not defined vs null
+Event flow: event capturing , event bubbling
+Shallow copy vs deep copy
+Alert box vs confirmation box
+Types of errors
+Event delegation
+Regex
+Short circuit evaluation
+Features of oops
+Spread vs rest
+Map vs foreach
+
+
+Programs
+
+Factorial
+Fibonacci
+Reverse the string without reverse
+Infinity scrolling
+Prime number
+
+
+
+HTML & CSS
+
+Specificity
+Flexbox
+Display none vs visibility hidden
+Attribute vs property
+Types of css
+Semantic elements in html
+Block level elements vs inline elements
+
+
+
+
+Personal interview questions
+
+tell me about yourself
+project explanation
+daily activities
+
