@@ -1,0 +1,89 @@
+
+GITHUB QUESTIONS ARE NOT INCLUDED READ FROM THE BLOGS WHICH ARE THIS FOLDER
+
+how javascript works
+What are the different data types present in javascript ?
+Explain Hoisting in javascript.
+Why do we use the word “debugger” in javascript?
+Difference between “ == “ and “ === “ operators.
+Difference between var and let keyword in javascript.
+Explain Implicit Type Coercion in javascript.
+Is javascript a statically typed or a dynamically typed language ?
+What is NaN property in JavaScript
+ Explain passed by value and passed by reference.
+11. What do you mean by strict mode in javascript and characteristics of javascript strict-mode?
+13. Explain “this” keyword. //The ‘this’ keyword in JavaScript refers to the currently calling object. It is commonly used in constructors to assign values to object properties.
+Explain call(), apply() and, bind() methods.
+What is the difference between exec() and test() methods in javascript ?
+What is currying in JavaScript?   
+18. What are some advantages of using External JavaScript?
+19. Explain Scope and Scope Chain in javascript.
+20. Explain Closures in JavaScript.
+21. Mention some advantages of javascript.
+22. What are object prototypes?
+22. What are object prototypes? //A prototype is a blueprint of an object. The prototype allows us to use properties and methods on an object even if the properties and methods do not exist on the current object.
+    What are the types of errors in javascript ?
+    26. What is recursion in a programming language?
+28. What is DOM?
+    29. Which method is used to retrieve a character from a certain index ? // charAt()
+    30. What do you mean by BOM?
+5. In JavaScript, how many different methods can you make an object?
+6. What is the use of promises in javascript?
+7. What are classes in javascript?
+waht are the es6 features?
+4. What is the rest parameter and spread operator?
+ Explain WeakSet in javascript.
+ 11. Explain WeakMap in javascript.
+12. What is Object Destructuring?
+13. Difference between prototypal and classical inheritance
+14. What is a Temporal Dead Zone? //Temporal Dead Zone is a behaviour that occurs with variables declared using let and const keywords. It is a behaviour where we try to access a variable before it is initialized.
+What’s the difference between JavaScript and Java?
+What are the features of JavaScript?
+What are the scopes of a variable in JavaScript?
+What do you understand about cookies?
+What is the difference between Document and Window in JavaScript?
+What is the difference between Undefined and Undeclared in JavaScript?
+What is the difference between Undefined and Null in JavaScript ?
+What is the difference between Session storage and Local storage?
+What is Negative Infinity?
+What does the prompt box mean in JavaScript?
+How to find the operating system in the client machine using JavaScript?
+What is the use of Void(0)?
+Differentiate between an alert box and a confirmation box.
+How to print screen in JavaScript?
+What is the main difference between Attributes and Property?
+What's the distinct difference between innerText and innerHTML?
+What is the difference between the methods .map() and .forEach() in JavaScript?
+What are all the looping structures in JavaScript?
+32. How to get the status of a CheckBox?
+Q20. How to create a cookie using JavaScript? //document.cookie = "key1 = value1; key2 = value2; expires = date";
+27. Define event bubbling and event capturing.
+What is Callback hell ?
+List a few of the built-in methods along with the values they return.
+21. Differentiate between slice and splice.
+48. What is the difference between Object.freeze() and const? 
+8. Which company developed JavaScript?
+14. What is the working of timers in JavaScript?
+2. What is the nullish coalescing operator in JavaScript?
+14. What is Promise.all?
+21) What is the use of history object?
+35) What's the difference between event.preventDefault() and event.stopPropagation() methods in JavaScript?
+13. What are the different operators in JavaScript?
+31. Which are the different states of a JS Promise?
+2. What is ECMAScript?
+11. What are the differences between substr() and substring()?
+11. Explain the async/await syntax.
+17. How do you handle exceptions in JavaScript?
+What is the difference between deep and shallow copy in JavaScript?
+------------------------------------------------
+    FUNCTIONS
+ --------------------------------------------------
+What is an Immediately Invoked Function in JavaScript ? OR What do you mean by Self Invoking Functions?
+12. Explain Higher Order Functions in javascript.
+What are callbacks ?
+27. What is the use of a constructor function in javascript?
+1. What are arrow functions? // this is arrow functionsrefers to parent scope not the current scope
+8. What are generator functions?
+What is the difference between Function declaration and Function expression?
+Q8. Define anonymous function.
+6) Define a named function in JavaScript.

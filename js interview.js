@@ -1,9 +1,14 @@
-these two are import blogs regarding mcqs
+these two are important blogs regarding mcqs
 https://www.geeksforgeeks.org/javascript-output-based-interview-questions/ 
 https://github.com/lydiahallie/javascript-questions
 
 
+// Truthy values are those which will be converted (coerced) to true. Falsy values are those which will be converted to false.
 
+// All values except false, 0, 0n, -0, “”, null, undefined, and NaN are truthy values.
+// ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If statements:
 // question
 
 let a = {};
@@ -1407,7 +1412,22 @@ console.log(!!null); //false
 console.log(!!undefined); //false
 // Uses the double negation (!!) to convert values to their boolean equivalents. Both null and undefined are falsy values, so the output for both lines is false.
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How would you go about creating a method that returns the sum of all the elements in an array?
+function sumArray(arr) {
+    return arr.reduce((acc, current) => acc + current, 0);
+}
+
+const numbers = [1, 2, 3, 4, 5];
+console.log(sumArray(numbers)); // Output: 15
+
+
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+let x = 10;
+let y = (x++, x + 1, x * 2);
+console.log(y); //22 last value is 22
+
+
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 //-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
